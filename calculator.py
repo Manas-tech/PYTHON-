@@ -5,7 +5,7 @@ print('''
         4. Division
         0. Exit''')
 
-choice=int(input("Enter the choice: "))
+choice=int(input("Enter the   choice: "))
 global a
 global b
 def addition():
