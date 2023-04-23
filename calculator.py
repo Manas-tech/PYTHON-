@@ -9,7 +9,7 @@ choice=int(input("Enter the   choice: "))
 global a
 global b
 def addition():
-    a=int(input("Enter the first number: "))
+    a=int(input("Enter the  first number: "))
     b=int(input("Enter the second number: "))
     add=a+b
     print(add)
