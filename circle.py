@@ -5,7 +5,7 @@
 import turtle
 	
 # Initializing the turtle
-t = turtle.Turtle()
+t =  turtle.Turtle()
 
 
 r = 50
