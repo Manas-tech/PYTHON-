@@ -5,4 +5,5 @@ print(type(d))
 data =pd.DataFrame(d)
 data.loc[3]=[4,155]
 data.drop(columns=['salary'],axis=1,inplace=True)
-print(data)
+print(data) 
+#machine learning 
